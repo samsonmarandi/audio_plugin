@@ -1,0 +1,6 @@
+framework module simple_audio_streamer {
+  umbrella header "simple_audio_streamer-umbrella.h"
+
+  export *
+  module * { export * }
+}

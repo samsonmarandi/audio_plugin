@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - simple_audio_streamer (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - simple_audio_streamer (from `Flutter/ephemeral/.symlinks/plugins/simple_audio_streamer/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  simple_audio_streamer:
+    :path: Flutter/ephemeral/.symlinks/plugins/simple_audio_streamer/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  simple_audio_streamer: 8365ec61268fb27d013a28507c281f542c10410f
+
+PODFILE CHECKSUM: 7eb978b976557c8c1cd717d8185ec483fd090a82
+
+COCOAPODS: 1.16.2
